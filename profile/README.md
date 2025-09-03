@@ -30,7 +30,7 @@ produção intelectual da UPE gere valor e impacto social.
 <h2><img src="caminho/para/seu/icone_setores.png" alt="Ícone de Setores" width="20px"
 style="vertical-align: middle;"> Nossas Coordenações</h2>
 
-A PROPEGI é estruturada em coordenações que trabalham de forma integrada para oferecer
+>  A PROPEGI é estruturada em coordenações que trabalham de forma integrada para oferecer
 suporte completo a estudantes, pesquisadores e docentes da UPE em suas jornadas
 acadêmicas e científicas.
 
