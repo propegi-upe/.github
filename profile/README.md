@@ -61,7 +61,7 @@ e o setor público para viabilizar projetos de alto impacto tecnológico.
 
 ---
 
-## <img src="caminho/para/seu/icone_programas.png" alt="Ícone de Programas">
+<h2><img src="caminho/para/seu/icone_programas.png" alt="Ícone de Programas"
 width="20px" style="vertical-align: middle;"> Nossos Programas e Iniciativas
 
 Para cumprir sua missão, a PROPEGI gerencia uma série de programas e editais que são vitais
