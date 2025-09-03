@@ -65,7 +65,7 @@ e o setor público para viabilizar projetos de alto impacto tecnológico.
 width="20px" style="vertical-align: middle;"> Nossos Programas e Iniciativas
 
 > Para cumprir sua missão, a PROPEGI gerencia uma série de programas e editais que são vitais
-para o ecossistema de pesquisa e inovação da UPE:
+para o ecossistema de pesquisa e inovação da UPE:</h2>
 
 * **Programa Institucional de Bolsas de Iniciação Científica (PIBIC):** Incentiva a formação de
 novos pesquisadores, inserindo estudantes de graduação em projetos de pesquisa.
