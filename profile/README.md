@@ -1,5 +1,4 @@
-<h1><img src="caminho/para/seu/icone.png" alt="Logo PROPEGI" width="25px"
-style="vertical-align: middle;"> Pró-Reitoria de Pós-Graduação, Pesquisa e Inovação -
+🟥</h3> Pró-Reitoria de Pós-Graduação, Pesquisa e Inovação -
 PROPEGI</h1>
 
 Bem-vindo(a) ao repositório oficial da **PROPEGI** no GitHub. Somos a Pró-Reitoria da
@@ -11,8 +10,7 @@ UPE.
 
 ---
 
-<h2><img src="caminho/para/seu/icone_missao.png" alt="Ícone de Missão" width="20px"
-style="vertical-align: middle;"> Nossa Missão</h2>
+<h2>⬜ Nossa Missão</h2>
 
 > Nossa missão é dirigir, coordenar, apoiar e fomentar todos os esforços e produções em
 Pós-Graduação e Pesquisa da Instituição. Atuamos para fortalecer o desenvolvimento
@@ -27,8 +25,7 @@ produção intelectual da UPE gere valor e impacto social.
 
 ---
 
-<h2><img src="caminho/para/seu/icone_setores.png" alt="Ícone de Setores" width="20px"
-style="vertical-align: middle;"> Nossas Coordenações</h2>
+<h2>🏛️ Nossas Coordenações</h2>
 
 >  A PROPEGI é estruturada em coordenações que trabalham de forma integrada para oferecer
 suporte completo a estudantes, pesquisadores e docentes da UPE em suas jornadas
@@ -61,8 +58,7 @@ e o setor público para viabilizar projetos de alto impacto tecnológico.
 
 ---
 
-<h2><img src="caminho/para/seu/icone_programas.png" alt="Ícone de Programas"
-width="20px" style="vertical-align: middle;"> Nossos Programas e Iniciativas</h2>
+<h2>🖥️ Nossos Programas e Iniciativas</h2>
 
 > Para cumprir sua missão, a PROPEGI gerencia uma série de programas e editais que são vitais
 para o ecossistema de pesquisa e inovação da UPE:
@@ -79,8 +75,7 @@ seminários que promovam o intercâmbio de conhecimento.
 
 ---
 
-<h2><img src="caminho/para/seu/icone_contato.png" alt="Ícone de Contato" width="20px"
-style="vertical-align: middle;"> Fale Conosco</h2>
+<h2>📞Fale Conosco</h2>
 
 Nossa equipe está à disposição para atendê-lo. Entre em contato com os setores específicos
 para obter mais informações, esclarecer dúvidas ou enviar sugestões.
