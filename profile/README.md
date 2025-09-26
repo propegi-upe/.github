@@ -1,5 +1,5 @@
-🟥</h3> Pró-Reitoria de Pós-Graduação, Pesquisa e Inovação -
-PROPEGI</h1>
+# Pró-Reitoria de Pós-Graduação, Pesquisa e Inovação -
+PROPEGI
 
 Bem-vindo(a) ao repositório oficial da **PROPEGI** no GitHub. Somos a Pró-Reitoria da
 **Universidade de Pernambuco (UPE)**, a instância dedicada a gerenciar, apoiar e
@@ -10,7 +10,7 @@ UPE.
 
 ---
 
-<h2>⬜ Nossa Missão</h2>
+## Nossa Missão
 
 > Nossa missão é dirigir, coordenar, apoiar e fomentar todos os esforços e produções em
 Pós-Graduação e Pesquisa da Instituição. Atuamos para fortalecer o desenvolvimento
@@ -24,8 +24,7 @@ de incentivo à pesquisa, o estabelecimento de parcerias estratégicas e a garan
 produção intelectual da UPE gere valor e impacto social.
 
 ---
-
-<h2>🏛️ Nossas Coordenações</h2>
+ ## Nossas Coordenações
 
 >  A PROPEGI é estruturada em coordenações que trabalham de forma integrada para oferecer
 suporte completo a estudantes, pesquisadores e docentes da UPE em suas jornadas
@@ -58,7 +57,7 @@ e o setor público para viabilizar projetos de alto impacto tecnológico.
 
 ---
 
-<h2>🖥️ Nossos Programas e Iniciativas</h2>
+## Nossos Programas e Iniciativas
 
 > Para cumprir sua missão, a PROPEGI gerencia uma série de programas e editais que são vitais
 para o ecossistema de pesquisa e inovação da UPE:
@@ -74,8 +73,7 @@ pesquisa, a participação em eventos científicos e a publicação de artigos.
 seminários que promovam o intercâmbio de conhecimento.
 
 ---
-
-<h2>📞Fale Conosco</h2>
+### Fale Conosco
 
 Nossa equipe está à disposição para atendê-lo. Entre em contato com os setores específicos
 para obter mais informações, esclarecer dúvidas ou enviar sugestões.
